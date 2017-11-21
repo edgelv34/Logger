@@ -1,7 +1,5 @@
 public class Logger {
 
-    public static Context mContext;
-
     private static final String LOG_TAG = "Logger";
     private static final String FORMAT = "[%s]: %s";
 
