@@ -17,7 +17,7 @@ public class AppConfig {
 
 	private static boolean isDebuggable;
 
-	public setDebuggable(boolean debug) {
+	public void setDebuggable(boolean debug) {
 		isDebuggable = debug;
 	}
 
